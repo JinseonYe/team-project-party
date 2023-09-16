@@ -31,7 +31,7 @@
 https://www.notion.so/47a47b7b603c42f0b99f898e98fe49b3?v=0d0802a2acd34da68bbabbab16b43350
 
 ## 4. ERD 구조도
-https://www.erdcloud.com/d/TW2FrhRFWi64EnHqN
+![wwwqq.PNG](https://prod-files-secure.s3.us-west-2.amazonaws.com/ceec3e2b-dd3f-463f-8139-a95f2bdf3de6/de568fb4-2a2a-423d-a6c7-9c983190099c/wwwqq.png)
 
 ## 5. 주요 기능
 ### 1. 회원가입 & 로그인

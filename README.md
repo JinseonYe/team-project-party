@@ -1,5 +1,7 @@
 # 내배캠 4기 스프링 A-2 < Let`s Party > 팀프로젝트
 
+![image](https://github.com/JinseonYe/calculator_project/assets/117062933/74fc28e9-fd6a-4124-b147-11e9c0a0b2c3)
+
 내일배움캠프 4기 스프링 A반 2조의 1회성 모임 매칭 서비스 < Let`s Party >입니다.  
 게임 속 [ 인스턴트 파티 ] 처럼 빠르게 모임을 결성하고 목적을 이룬 후 부담 없이 헤어지는   
 즉흥적인 소규모 모임을 구성하게 해주는 웹 서비스 입니다.
@@ -31,7 +33,7 @@
 https://www.notion.so/47a47b7b603c42f0b99f898e98fe49b3?v=0d0802a2acd34da68bbabbab16b43350
 
 ## 4. ERD 구조도
-![wwwqq.PNG](https://prod-files-secure.s3.us-west-2.amazonaws.com/ceec3e2b-dd3f-463f-8139-a95f2bdf3de6/de568fb4-2a2a-423d-a6c7-9c983190099c/wwwqq.png)
+![image](https://github.com/JinseonYe/calculator_project/assets/117062933/ea6f60ab-0c2b-464a-ba7f-73c98c49990d)
 
 ## 5. 주요 기능
 ### 1. 회원가입 & 로그인
